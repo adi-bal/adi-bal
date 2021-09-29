@@ -2,7 +2,17 @@
 ##### Welcome to my github profile! It might seem a bit empty now, but i'll be working on filling it up soon 😄!
 
 
-# What i know 
+# Langages I know 
+![c++](Misc/C++.png)
+![python](Misc/python.png)
+![Java](Misc/java.png)
+![Javascript](Misc/js.png)
+
+
+# What I'm learning 🌱
+Back - end engineering, data science, Machine Learning
+
+
 <!--
 **adi-bal/adi-bal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
