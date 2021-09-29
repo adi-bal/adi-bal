@@ -3,7 +3,7 @@
 
 
 # Langages I know 
-![c++](Misc/C++.png)
+![c++](Misc/cp.png)
 ![python](Misc/python.png)
 ![Java](Misc/java.png)
 ![Javascript](Misc/js.png)
