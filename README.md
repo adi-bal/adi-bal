@@ -2,7 +2,7 @@
 ##### Welcome to my github profile! It might seem a bit empty now, but i'll be working on filling it up soon 😄!
 
 
-#Whats i know 
+# What i know 
 <!--
 **adi-bal/adi-bal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
