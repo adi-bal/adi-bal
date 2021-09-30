@@ -3,6 +3,7 @@
 
 
 # Langages I know 
+<img src = "Misc/cp.png" width = 1000, height = 150>
 ![c++](Misc/cp.png)
 ![python](Misc/python.png)
 ![Java](Misc/java.png)
