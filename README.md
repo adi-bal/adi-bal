@@ -3,10 +3,23 @@
 
 
 # Langages I know 
-<img src = "Misc/cp.png" width = 100, height = 150>
-<img src = "Misc/python.png" width = 100, height = 150>
-<img src = "Misc/java.png" width = 100, height = 150>
-<img src = "Misc/js.png" width = 100, height = 150>
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+        <div class="" style="max-width: 20%; max-height: 20%;">
+            <img src =""Misc/cp.png">
+        </div>
+
+           <div class="" style="max-width: 20%; max-height: 20%;">
+            <img src ="Misc/python.png">
+        </div>
+
+        <div class="" style="max-width: 20%; max-height: 20%;">
+            <img src ="i"Misc/java.png">
+        </div>
+      <div class="" style="max-width: 20%; max-height: 20%;">
+            <img src ="Misc/js.png">
+         </div>
+    </div>
+
 
 # What I'm learning 🌱
 Back - end engineering, data science, Machine Learning
