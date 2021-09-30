@@ -3,23 +3,7 @@
 
 
 # Langages I know 
-<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
-        <div class="" style="max-width: 20%; max-height: 20%;">
-            <img src =""Misc/cp.png">
-        </div>
-
-           <div class="" style="max-width: 20%; max-height: 20%;">
-            <img src ="Misc/python.png">
-        </div>
-
-        <div class="" style="max-width: 20%; max-height: 20%;">
-            <img src ="i"Misc/java.png">
-        </div>
-      <div class="" style="max-width: 20%; max-height: 20%;">
-            <img src ="Misc/js.png">
-         </div>
-    </div>
-
+C++, python, java, javascript
 
 # What I'm learning 🌱
 Back - end engineering, data science, Machine Learning
