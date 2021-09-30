@@ -3,12 +3,10 @@
 
 
 # Langages I know 
-<img src = "Misc/cp.png" width = 1000, height = 150>
-![c++](Misc/cp.png)
-![python](Misc/python.png)
-![Java](Misc/java.png)
-![Javascript](Misc/js.png)
-
+<img src = "Misc/cp.png" width = 100, height = 150>
+<img src = "Misc/python.png" width = 100, height = 150>
+<img src = "Misc/java.png" width = 100, height = 150>
+<img src = "Misc/js.png" width = 100, height = 150>
 
 # What I'm learning 🌱
 Back - end engineering, data science, Machine Learning
