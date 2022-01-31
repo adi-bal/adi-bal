@@ -1,12 +1,6 @@
 ### Hi there! 
-##### Welcome to my github profile! It might seem a bit empty now, but i'll be working on filling it up soon 😄!
+##### Welcome to my github profile! I am currently working on a bunch of projects in electronics and computing, and will populate the rest of my gihub very soom! 
 
-
-# Langages I know 
-C++, python, java, javascript
-
-# What I'm learning 🌱
-Back - end engineering, data science, Machine Learning
 
 
 <!--
