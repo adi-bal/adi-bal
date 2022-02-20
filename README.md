@@ -1,5 +1,5 @@
 ### Hi there! 
-##### Welcome to my github profile! I am currently working on a bunch of projects in electronics and computing, and will populate the rest of my gihub very soom! 
+##### Welcome to my github profile! I am currently working on a bunch of projects in electronics and computing, and will populate the rest of my github very soom! 
 
 
 
